@@ -27,6 +27,7 @@ The [charter](charter.md) defines the scope and governance of the K8s Infra Work
 
 * Davanum Srinivas (**[@dims](https://github.com/dims)**), VMware
 * Aaron Crickenberger (**[@spiffxp](https://github.com/spiffxp)**), Google
+* Bart Smykla (**[@bartsmykla](https://github.com/bartsmykla)**), VMware
 
 ## Contact
 - Slack: [#wg-k8s-infra](https://kubernetes.slack.com/messages/wg-k8s-infra)
