@@ -324,6 +324,10 @@ sigs:
   subprojects:
   - name: architecture-and-api-governance
     description: '[Described below](#architecture-and-api-governance)'
+    coordinators:
+    - github: liggitt
+      name: Jordan Liggitt
+      company: Google
     owners:
     - https://raw.githubusercontent.com/kubernetes/api/master/OWNERS
     - https://raw.githubusercontent.com/kubernetes/community/master/contributors/design-proposals/architecture/OWNERS
@@ -1821,6 +1825,11 @@ sigs:
     - github: jeremyrickard
       name: Jeremy Rickard
       company: Apple
+    coordinators:
+    - github: LappleApple
+      name: Lauri Apple
+      company: VMware
+      description: '[Described below](#program-management)'
     emeritus_leads:
     - github: alejandrox1
       name: Jorge Alarcon Ochoa
